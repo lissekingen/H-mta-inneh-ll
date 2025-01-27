@@ -1,0 +1,5 @@
+C:\Users\le1244\OneDrive - LYSTKOM\prg 2\Projekt\Hämta innehåll\Chuck norris\obj\Debug\net8.0\Chuck norris.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\le1244\OneDrive - LYSTKOM\prg 2\Projekt\Hämta innehåll\Chuck norris\obj\Debug\net8.0\Chuck norris.AssemblyInfoInputs.cache
+C:\Users\le1244\OneDrive - LYSTKOM\prg 2\Projekt\Hämta innehåll\Chuck norris\obj\Debug\net8.0\Chuck norris.AssemblyInfo.cs
+C:\Users\le1244\OneDrive - LYSTKOM\prg 2\Projekt\Hämta innehåll\Chuck norris\obj\Debug\net8.0\Chuck norris.csproj.CoreCompileInputs.cache
+C:\Users\le1244\OneDrive - LYSTKOM\prg 2\Projekt\Hämta innehåll\Chuck norris\obj\Debug\net8.0\Chuck norris.sourcelink.json

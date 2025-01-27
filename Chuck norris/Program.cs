@@ -2,7 +2,7 @@
 using System.Xml.Serialization;
 
 class Program{
-  async static void GetJoke(){
+  async static Task Main(){
   using(HttpClient tysken = new HttpClient()){
     tysken.BaseAddress = new Uri ("https://api.chucknorris.io");
     try{
@@ -16,8 +16,6 @@ catch(HttpRequestException e){
 }
 }
   }
-  static void Main(){
-  GetJoke();
-}
+  
 }
 

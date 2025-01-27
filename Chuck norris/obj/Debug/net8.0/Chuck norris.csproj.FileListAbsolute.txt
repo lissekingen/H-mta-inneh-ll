@@ -3,3 +3,13 @@ C:\Users\le1244\OneDrive - LYSTKOM\prg 2\Projekt\Hämta innehåll\Chuck norris\o
 C:\Users\le1244\OneDrive - LYSTKOM\prg 2\Projekt\Hämta innehåll\Chuck norris\obj\Debug\net8.0\Chuck norris.AssemblyInfo.cs
 C:\Users\le1244\OneDrive - LYSTKOM\prg 2\Projekt\Hämta innehåll\Chuck norris\obj\Debug\net8.0\Chuck norris.csproj.CoreCompileInputs.cache
 C:\Users\le1244\OneDrive - LYSTKOM\prg 2\Projekt\Hämta innehåll\Chuck norris\obj\Debug\net8.0\Chuck norris.sourcelink.json
+C:\Users\le1244\OneDrive - LYSTKOM\prg 2\Projekt\Hämta innehåll\Chuck norris\bin\Debug\net8.0\Chuck norris.exe
+C:\Users\le1244\OneDrive - LYSTKOM\prg 2\Projekt\Hämta innehåll\Chuck norris\bin\Debug\net8.0\Chuck norris.deps.json
+C:\Users\le1244\OneDrive - LYSTKOM\prg 2\Projekt\Hämta innehåll\Chuck norris\bin\Debug\net8.0\Chuck norris.runtimeconfig.json
+C:\Users\le1244\OneDrive - LYSTKOM\prg 2\Projekt\Hämta innehåll\Chuck norris\bin\Debug\net8.0\Chuck norris.dll
+C:\Users\le1244\OneDrive - LYSTKOM\prg 2\Projekt\Hämta innehåll\Chuck norris\bin\Debug\net8.0\Chuck norris.pdb
+C:\Users\le1244\OneDrive - LYSTKOM\prg 2\Projekt\Hämta innehåll\Chuck norris\obj\Debug\net8.0\Chuck norris.dll
+C:\Users\le1244\OneDrive - LYSTKOM\prg 2\Projekt\Hämta innehåll\Chuck norris\obj\Debug\net8.0\refint\Chuck norris.dll
+C:\Users\le1244\OneDrive - LYSTKOM\prg 2\Projekt\Hämta innehåll\Chuck norris\obj\Debug\net8.0\Chuck norris.pdb
+C:\Users\le1244\OneDrive - LYSTKOM\prg 2\Projekt\Hämta innehåll\Chuck norris\obj\Debug\net8.0\Chuck norris.genruntimeconfig.cache
+C:\Users\le1244\OneDrive - LYSTKOM\prg 2\Projekt\Hämta innehåll\Chuck norris\obj\Debug\net8.0\ref\Chuck norris.dll
